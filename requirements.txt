@@ -1,0 +1,5 @@
+fastapi[standard]
+duckduckgo-search
+google-api-python-client
+openai
+python_dotenv
